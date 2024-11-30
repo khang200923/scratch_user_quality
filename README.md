@@ -12,7 +12,7 @@ This project evaluates the quality of Scratch projects and users based on variou
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/scratch_user_quality.git
+    git clone https://github.com/khang200923/scratch_user_quality.git
     cd scratch_user_quality
     ```
 
